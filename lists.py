@@ -1,7 +1,10 @@
 # Replace the "ANSWER HERE" with your answer
-
-def remove_elements(list_to_remove_elements):
-    return "ANSWER HERE"  # Remove this line and implement
+    
+lista= input("ingrese una lista:")
+    remove_element = [lista]
+    def remove_elements[0] [4] [5]:
+    return remove_elements
+    print(remove_elements)   
 
 
 def add_elements(list_to_add_elements):
